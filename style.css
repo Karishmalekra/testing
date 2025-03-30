@@ -595,7 +595,7 @@ body {
 }
 .gift::before{
     position: absolute;
-    content: "Mở<3";
+    content: "LV U";
     font-family: 'Dancing Script', cursive;
     font-size: 20px;
     color: red;
@@ -645,7 +645,7 @@ body {
 }
 .gift1::before{
     position: absolute;
-    content: "Nhé";
+    content: "Kiss U";
     font-size: 20px;
     color: red;
     font-family: 'Dancing Script', cursive;
@@ -695,7 +695,7 @@ body {
 }
 .gift2::before{
     position: absolute;
-    content: "Thư";
+    content: "Hug U";
     font-size: 20px;
     color: red;
     font-family: 'Dancing Script', cursive;
@@ -735,7 +735,7 @@ body {
 }
 .gift3::before{
     position: absolute;
-    content: "Ra";
+    content: "Miss u";
     font-size: 20px;
     color: red;
     font-family: 'Dancing Script', cursive;
